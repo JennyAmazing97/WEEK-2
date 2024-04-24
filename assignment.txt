@@ -1,3 +1,3 @@
 Question: The meaning of UTF-8 in HTML
 
-Answer: UTF-8 is an encoding systemfor Unicode. It can translate any Unicode character to a matching unique binary string,and can  
+Answer: UTF-8 is an encoding systemfor Unicode. It can translate any Unicode character to a matching unique binary string,and can also translate the binary string back to a Unicode character.   
